@@ -1,0 +1,7 @@
+obs-studio/logs/
+obs-studio/profiler_data/
+obs-studio/plugin_config/
+*.bak
+
+# ignore file with stream key
+service.json
