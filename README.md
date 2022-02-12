@@ -16,3 +16,8 @@ Symlink the ``obs-studio`` directory to ``~/.config/obs-studio/``.
 ## Post stream
 
 - Open closed browser tabs
+  - support
+- Open closed chat applications
+  - Signal
+  - Slack
+- Open email client
