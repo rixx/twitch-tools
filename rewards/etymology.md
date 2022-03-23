@@ -1,5 +1,15 @@
 # Open
 
+- 'Knight': germanic, same word as the German 'Knecht' (farm hand, servant). Plural used to be 'knighten'. Rose in
+  meaning from 'servant' to 'military follower' in the hundred years war, and by the 16th cent had finally reached
+  nobility. In German, literally being unfree. We don't have any other root words!
+- 'Hollow': germanic, holh/*hul. Related the same word in German, 'hohl', and also 'Höhle' (cave). But NOT 'hull',
+  unless you go back way further.
+  The very ancient root is *kel-, PIE for "to cover, to conceal, to save", probably, which leads to the Sanskrit 'cala' (cave),
+  Latin 'cella' (store room), 'clam' (secret)
+- 'Hull': from 'hulu', to cover: first a word for seed coverings, still in German/Dutch as Hülle/Hülse (shell, husk).
+  From there to the ship hull, because it functions like a seed/nut shell
+  OR!! might instead come from 'hold'
 - 'Persuade' comes from Latin suādēre 'to advise'.
   Suādēre likely once meant 'to make sweet/agreeable',
   as it shares a root with suāvis 'sweet' - from which English gets 'suave'.
@@ -40,9 +50,6 @@
   unsure origin: could be from cynn (-> kin), and therefore leader of people
   or from old germanic word for noble birth. much debate among sociology based historian speculations
   BUT but the originally used word: þeoden (king, chief of tribe)
-- world: composite, wer-ald/wor-old. "wer" as in "werwolf" (vir): man/human, and "old" as in age, age-of-man.
-  basically contrasts with afterlife, this is OUR realm, while the word for world in middle english was Middangeard
-  (germanic cosmology yay)
 - fee, from PIE for "cattle". Merged from OEng "feoh" (livestock, still alive in German Vieh), from PIE peku* (pecu,
   cattle and pecunia, Money). ALSO from OFrench fieu, meaning and evolving into fief.
   meaning evolved from cattle, to land  holdings, to heritable services to be paid to a feudal lord, and then just money
@@ -65,9 +72,10 @@
   also reiten.
   BUT riding as in district: different word entirely, like *þriðing, third-part/thing (via old norse) when counties were split
   in parts of three, which goes directly to three/drei/tri/triss (irish)/tertius
-- penny/pence, Pfennig: 
 
 
 # Done
 
-in order, for recycling
+- world: composite, wer-ald/wor-old. "wer" as in "werwolf" (vir): man/human, and "old" as in age, age-of-man.
+  basically contrasts with afterlife, this is OUR realm, while the word for world in middle english was Middangeard
+  (germanic cosmology yay)
