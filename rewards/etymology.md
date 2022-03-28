@@ -1,8 +1,5 @@
 # Open
 
-- 'Knight': germanic, same word as the German 'Knecht' (farm hand, servant). Plural used to be 'knighten'. Rose in
-  meaning from 'servant' to 'military follower' in the hundred years war, and by the 16th cent had finally reached
-  nobility. In German, literally being unfree. We don't have any other root words!
 - 'Hollow': germanic, holh/*hul. Related the same word in German, 'hohl', and also 'Höhle' (cave). But NOT 'hull',
   unless you go back way further.
   The very ancient root is *kel-, PIE for "to cover, to conceal, to save", probably, which leads to the Sanskrit 'cala' (cave),
@@ -72,6 +69,13 @@
   also reiten.
   BUT riding as in district: different word entirely, like *þriðing, third-part/thing (via old norse) when counties were split
   in parts of three, which goes directly to three/drei/tri/triss (irish)/tertius
+- Threat: originally meant "crowd, troop" (and related to a germanic word, threotan, weary: in the German 'verdrossen',
+  vexed, grumpy). PIE *treud: to push. Found in latin treudere (to press), into extrude, intrude etc. (threat of
+  intrusion hehe)
+  Also related to "thrust" (probably), but **not** to tryst.
+- Tryst: via Old French tristre, waiting place: 14c English as appointment to meet at a specific time/date. From
+  proto-Germanic *treuwaz 'having good faith': in German Treue, loyalty. PIE root *deru, solid/steadfast: also into
+  trust, true, truce, truth, durable/endure/duration/duress, tree(in english, irish, slavic!), Latin durus hard.
 
 
 # Done
@@ -79,3 +83,6 @@
 - world: composite, wer-ald/wor-old. "wer" as in "werwolf" (vir): man/human, and "old" as in age, age-of-man.
   basically contrasts with afterlife, this is OUR realm, while the word for world in middle english was Middangeard
   (germanic cosmology yay)
+- 'Knight': germanic, same word as the German 'Knecht' (farm hand, servant). Plural used to be 'knighten'. Rose in
+  meaning from 'servant' to 'military follower' in the hundred years war, and by the 16th cent had finally reached
+  nobility. In German, literally being unfree. We don't have any other root words!
