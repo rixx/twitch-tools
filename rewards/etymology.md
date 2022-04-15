@@ -31,32 +31,15 @@
   Both its sounds and senses have since been influenced by 'out' and 'rage' though.
 - September/seven: Septem is a member of the big Indo-European family of 'seven' words that also includes
   Welsh saith, Czech sedm, Sanskrit sapta and Greek heptá.
-- midwife: mid (as german mit, with) and wif (woman)
-- desk and disc both derive from the greek diskos, which in turn started as the verb diskein, to throw. disc was then
-  the thing you threw, while discus in latin meant "platter", and in medieval latin turned into "writing table" (desca)
 - wade: PIE word that appears only in Germanic languages + Latin.
   Obviously German waten (same meaning), but also ford/Furt, latin vadere (to go) and vadare (to wade)
   used to be a strong verb until the 16th cent!
   NOT related to "water", but via latin to invasion, and via spanish to vamoose (actual spanish vamos)
-- naprawo geradeaus auf serbisch und rechts auf russisch
 - -win or win- (edwin, winfried): from wi·ne, friend. Very distantly related to Venus!
-- *reg, PIE: move in a straight line -> rule. in direct and erect, blush. but the other meaning in reign, reich, bishopric
-  friedrich/frederick, reckless, regal, sanskrit raj (king), and, of course: gaulish RIX (vercingetorix): king, and all
-  forms of right/recht/recte/straight
 - but King: from cyning, which, from *kuningaz, wherefrom König.
   unsure origin: could be from cynn (-> kin), and therefore leader of people
   or from old germanic word for noble birth. much debate among sociology based historian speculations
   BUT but the originally used word: þeoden (king, chief of tribe)
-- fee, from PIE for "cattle". Merged from OEng "feoh" (livestock, still alive in German Vieh), from PIE peku* (pecu,
-  cattle and pecunia, Money). ALSO from OFrench fieu, meaning and evolving into fief.
-  meaning evolved from cattle, to land  holdings, to heritable services to be paid to a feudal lord, and then just money
-  paid for a privilege
-  feudal
-- treasure, treasury: related to german "tresor" (safe), both from greek/latin thesaurus
-- book! -> german buch, buche (beech), probably from writing on beechwood tablets. tree-based writing words common,
-  latin from birch, sanskrit is from ash, librum/livre/library/libretto from "inner bark of trees" (russian lub means
-  bark!). fun fact, library used to be bochord, literally book hoard (cf thesaurus)
-  BUT to book sth is a completely different work, OEng bocian, to grant/assign by charter
 - "ear" has strong PIE roots as many fundamental words do. Ohr, øre, aus (greek), auris, ausis (lithuanian)
   unrelated: an ear of corn, west saxon æher, related to ähre, Latin acus (chaff), greek akoste (barley) – all generally
   from *ak, pointy thing (-> acid, acute, exACerbated) etc
@@ -65,17 +48,14 @@
 - wax as in waxing moon: still alive in german, wachsen. from PIE *weg/*aug, leading to very recognisable greek auxein
   (increase), which in turn is related to augmentare, augment, August, author(ity), and even,lmao, waist (via waest,
   where the body grows)
-- road: used to be riding expedition, literally from ride(rode), also raid (mounted expedition). From here obviously
-  also reiten.
-  BUT riding as in district: different word entirely, like *þriðing, third-part/thing (via old norse) when counties were split
-  in parts of three, which goes directly to three/drei/tri/triss (irish)/tertius
-- Threat: originally meant "crowd, troop" (and related to a germanic word, threotan, weary: in the German 'verdrossen',
-  vexed, grumpy). PIE *treud: to push. Found in latin treudere (to press), into extrude, intrude etc. (threat of
-  intrusion hehe)
-  Also related to "thrust" (probably), but **not** to tryst.
 - Tryst: via Old French tristre, waiting place: 14c English as appointment to meet at a specific time/date. From
   proto-Germanic *treuwaz 'having good faith': in German Treue, loyalty. PIE root *deru, solid/steadfast: also into
   trust, true, truce, truth, durable/endure/duration/duress, tree(in english, irish, slavic!), Latin durus hard.
+- unguent/unction: from latin unctio, same meaning: from a PIE root *ongw-. From the same word the Swiss word for butter: Anke
+- chernobyl: name of wormwood and similar plants, literally "black grass". cherno/chorno is proto-slavic čьrnъ black,
+  PIE root is *kers-no: black, dark, and in Sanskrit: krshnah, Krishna: the Black One (avatar of vishnu)
+- pale: from latin pallere (to be pale), via old french. also the root of pallor, pallid, …. In old french, the word for
+  turning pale was apalir: hence appal
 
 
 # Done
@@ -86,3 +66,26 @@
 - 'Knight': germanic, same word as the German 'Knecht' (farm hand, servant). Plural used to be 'knighten'. Rose in
   meaning from 'servant' to 'military follower' in the hundred years war, and by the 16th cent had finally reached
   nobility. In German, literally being unfree. We don't have any other root words!
+- midwife: mid (as german mit, with) and wif (woman)
+- desk and disc both derive from the greek diskos, which in turn started as the verb diskein, to throw. disc was then
+  the thing you threw, while discus in latin meant "platter", and in medieval latin turned into "writing table" (desca)
+- fee, from PIE for "cattle". Merged from OEng "feoh" (livestock, still alive in German Vieh), from PIE peku* (pecu,
+  cattle and pecunia, Money). ALSO from OFrench fieu, meaning and evolving into fief.
+  meaning evolved from cattle, to land  holdings, to heritable services to be paid to a feudal lord, and then just money
+  paid for a privilege
+  feudal
+- book! -> german buch, buche (beech), probably from writing on beechwood tablets. tree-based writing words common,
+  latin from birch, sanskrit is from ash, librum/livre/library/libretto from "inner bark of trees" (russian lub means
+  bark!). fun fact, library used to be bochord, literally book hoard (cf thesaurus)
+  BUT to book sth is a completely different work, OEng bocian, to grant/assign by charter
+- *reg, PIE: move in a straight line -> rule. in direct and erect, blush. but the other meaning in reign, reich, bishopric
+  friedrich/frederick, reckless, regal, sanskrit raj (king), and, of course: gaulish RIX (vercingetorix): king, and all
+  forms of right/recht/recte/straight
+- road: used to be riding expedition, literally from ride(rode), also raid (mounted expedition). From here obviously
+  also reiten.
+  BUT riding as in district: different word entirely, like *þriðing, third-part/thing (via old norse) when counties were split
+  in parts of three, which goes directly to three/drei/tri/triss (irish)/tertius
+- Threat: originally meant "crowd, troop" (and related to a germanic word, threotan, weary: in the German 'verdrossen',
+  vexed, grumpy). PIE *treud: to push. Found in latin treudere (to press), into extrude, intrude etc. (threat of
+  intrusion hehe)
+  Also related to "thrust" (probably), but **not** to tryst.
