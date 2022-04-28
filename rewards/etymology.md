@@ -1,12 +1,8 @@
 # Open
 
-- 'Hollow': germanic, holh/*hul. Related the same word in German, 'hohl', and also 'Höhle' (cave). But NOT 'hull',
-  unless you go back way further.
+- 'Hollow': germanic, holh/*hul. Related the same word in German, 'hohl', and also 'Höhle' (cave).
   The very ancient root is *kel-, PIE for "to cover, to conceal, to save", probably, which leads to the Sanskrit 'cala' (cave),
   Latin 'cella' (store room), 'clam' (secret)
-- 'Hull': from 'hulu', to cover: first a word for seed coverings, still in German/Dutch as Hülle/Hülse (shell, husk).
-  From there to the ship hull, because it functions like a seed/nut shell
-  OR!! might instead come from 'hold'
 - 'Persuade' comes from Latin suādēre 'to advise'.
   Suādēre likely once meant 'to make sweet/agreeable',
   as it shares a root with suāvis 'sweet' - from which English gets 'suave'.
@@ -40,20 +36,11 @@
   unsure origin: could be from cynn (-> kin), and therefore leader of people
   or from old germanic word for noble birth. much debate among sociology based historian speculations
   BUT but the originally used word: þeoden (king, chief of tribe)
-- "ear" has strong PIE roots as many fundamental words do. Ohr, øre, aus (greek), auris, ausis (lithuanian)
-  unrelated: an ear of corn, west saxon æher, related to ähre, Latin acus (chaff), greek akoste (barley) – all generally
-  from *ak, pointy thing (-> acid, acute, exACerbated) etc
 - atone: literally just at-one, originally "reconcile" (reparations/making up for only starting 1600s)
   modelled explicitly after adunare/adunamentum for atonement! theology blah
-- wax as in waxing moon: still alive in german, wachsen. from PIE *weg/*aug, leading to very recognisable greek auxein
-  (increase), which in turn is related to augmentare, augment, August, author(ity), and even,lmao, waist (via waest,
-  where the body grows)
 - Tryst: via Old French tristre, waiting place: 14c English as appointment to meet at a specific time/date. From
   proto-Germanic *treuwaz 'having good faith': in German Treue, loyalty. PIE root *deru, solid/steadfast: also into
   trust, true, truce, truth, durable/endure/duration/duress, tree(in english, irish, slavic!), Latin durus hard.
-- unguent/unction: from latin unctio, same meaning: from a PIE root *ongw-. From the same word the Swiss word for butter: Anke
-- chernobyl: name of wormwood and similar plants, literally "black grass". cherno/chorno is proto-slavic čьrnъ black,
-  PIE root is *kers-no: black, dark, and in Sanskrit: krshnah, Krishna: the Black One (avatar of vishnu)
 - pale: from latin pallere (to be pale), via old french. also the root of pallor, pallid, …. In old french, the word for
   turning pale was apalir: hence appal
 
@@ -89,3 +76,11 @@
   vexed, grumpy). PIE *treud: to push. Found in latin treudere (to press), into extrude, intrude etc. (threat of
   intrusion hehe)
   Also related to "thrust" (probably), but **not** to tryst.
+- chernobyl: name of wormwood and similar plants, literally "black grass". cherno/chorno is proto-slavic čьrnъ black,
+  PIE root is *kers-no: black, dark, and in Sanskrit: krshnah, Krishna: the Black One (avatar of vishnu)
+- wax as in waxing moon: still alive in german, wachsen. from PIE *weg/*aug, leading to very recognisable greek auxein
+  (increase), which in turn is related to augmentare, augment, August, author(ity), and even,lmao, waist (via waest,
+  where the body grows)
+- "ear" has strong PIE roots as many fundamental words do. Ohr, øre, aus (greek), auris, ausis (lithuanian)
+  unrelated: an ear of corn, west saxon æher, related to ähre, Latin acus (chaff), greek akoste (barley) – all generally
+  from *ak, pointy thing (-> acid, acute, exACerbated) etc
