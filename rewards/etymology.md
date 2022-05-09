@@ -1,12 +1,16 @@
 # Open
 
+- Kitchen, OEng cycene, proto germanic kokina, from Latin coquina (kitchen), which also survives as cuisine, from Latin
+  coquere, to cook, (yes, same word). Also in Italian as *cotta: ricotta, terra cotta. Comes from PIE *pekw "cook, ripen"
+  also leading to kiln, precocious (early ripening), apricot (early ripening fruit), of course biscuit (twice-baked)
+- Poll used to mean "head", hence the poll tax 1690. Therefore also tadpole: toad head, and poleaxe: axe head. Then the
+  counting of heads around 1620, then the poll as modern election as 1832.
+- Migraine directly from Greek hemi krania: half the head (migraines affect usually one side of the head). This in turn
+  was possibly a calque of an egypt word. krania = cranium, via Latin. Always means head, PIE *ker means "horn, head".
+  Also in "carrot" (anything pointy growing out of stuff), horn(et), etc.
 - 'Hollow': germanic, holh/*hul. Related the same word in German, 'hohl', and also 'Höhle' (cave).
   The very ancient root is *kel-, PIE for "to cover, to conceal, to save", probably, which leads to the Sanskrit 'cala' (cave),
   Latin 'cella' (store room), 'clam' (secret)
-- 'Persuade' comes from Latin suādēre 'to advise'.
-  Suādēre likely once meant 'to make sweet/agreeable',
-  as it shares a root with suāvis 'sweet' - from which English gets 'suave'.
-  Both words are related to 'sweet' itself, as well as to Greek hēdonḗ 'pleasure' - hence 'hedonism'.
 - 'Chest' likely comes from an early borrowing of a Latin word into the Germanic languages,
   with the usual change of a Latin /k/ sound to English /t͡ʃ/.
   That Latin ancestor is cista, itself borrowed from Ancient Greek kístē 'box',
@@ -31,18 +35,15 @@
   Obviously German waten (same meaning), but also ford/Furt, latin vadere (to go) and vadare (to wade)
   used to be a strong verb until the 16th cent!
   NOT related to "water", but via latin to invasion, and via spanish to vamoose (actual spanish vamos)
-- -win or win- (edwin, winfried): from wi·ne, friend. Very distantly related to Venus!
 - but King: from cyning, which, from *kuningaz, wherefrom König.
   unsure origin: could be from cynn (-> kin), and therefore leader of people
   or from old germanic word for noble birth. much debate among sociology based historian speculations
   BUT but the originally used word: þeoden (king, chief of tribe)
-- atone: literally just at-one, originally "reconcile" (reparations/making up for only starting 1600s)
-  modelled explicitly after adunare/adunamentum for atonement! theology blah
-- Tryst: via Old French tristre, waiting place: 14c English as appointment to meet at a specific time/date. From
-  proto-Germanic *treuwaz 'having good faith': in German Treue, loyalty. PIE root *deru, solid/steadfast: also into
-  trust, true, truce, truth, durable/endure/duration/duress, tree(in english, irish, slavic!), Latin durus hard.
-- pale: from latin pallere (to be pale), via old french. also the root of pallor, pallid, …. In old french, the word for
-  turning pale was apalir: hence appal
+- ridge: hrycg (back of man or animal), proto-germanic hruggin, German "Rücken". Also used to be the highest part of a
+  building. Lost these meanings by the 17th century. -dg- spelling is from the 15th century. the reconstructed PIE root
+  is related to a TON of words, like ring, range, crown and so on, but a bit more tentative than most
+- bridge: brycge, also in Dutch, Frisian, German, etc. PIE is *bhru, "log, beam". Serbian brv for "footbridge". the game
+  bridge is completely unrelated, possibly from Turkish *bir-üç "one-three," because one hand is exposed and three are concealed
 
 
 # Done
@@ -84,3 +85,7 @@
 - "ear" has strong PIE roots as many fundamental words do. Ohr, øre, aus (greek), auris, ausis (lithuanian)
   unrelated: an ear of corn, west saxon æher, related to ähre, Latin acus (chaff), greek akoste (barley) – all generally
   from *ak, pointy thing (-> acid, acute, exACerbated) etc
+- 'Persuade' comes from Latin suādēre 'to advise'.
+  Suādēre likely once meant 'to make sweet/agreeable',
+  as it shares a root with suāvis 'sweet' - from which English gets 'suave'.
+  Both words are related to 'sweet' itself, as well as to Greek hēdonḗ 'pleasure' - hence 'hedonism'.
