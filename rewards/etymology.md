@@ -5,9 +5,6 @@
   also leading to kiln, precocious (early ripening), apricot (early ripening fruit), of course biscuit (twice-baked)
 - Poll used to mean "head", hence the poll tax 1690. Therefore also tadpole: toad head, and poleaxe: axe head. Then the
   counting of heads around 1620, then the poll as modern election as 1832.
-- Migraine directly from Greek hemi krania: half the head (migraines affect usually one side of the head). This in turn
-  was possibly a calque of an egypt word. krania = cranium, via Latin. Always means head, PIE *ker means "horn, head".
-  Also in "carrot" (anything pointy growing out of stuff), horn(et), etc.
 - 'Hollow': germanic, holh/*hul. Related the same word in German, 'hohl', and also 'Höhle' (cave).
   The very ancient root is *kel-, PIE for "to cover, to conceal, to save", probably, which leads to the Sanskrit 'cala' (cave),
   Latin 'cella' (store room), 'clam' (secret)
@@ -89,3 +86,6 @@
   Suādēre likely once meant 'to make sweet/agreeable',
   as it shares a root with suāvis 'sweet' - from which English gets 'suave'.
   Both words are related to 'sweet' itself, as well as to Greek hēdonḗ 'pleasure' - hence 'hedonism'.
+- Migraine directly from Greek hemi krania: half the head (migraines affect usually one side of the head). This in turn
+  was possibly a calque of an egypt word. krania = cranium, via Latin. Always means head, PIE *ker means "horn, head".
+  Also in "carrot" (anything pointy growing out of stuff), horn(et), etc.
