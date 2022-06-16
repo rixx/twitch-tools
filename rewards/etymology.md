@@ -42,6 +42,19 @@
 - bridge: brycge, also in Dutch, Frisian, German, etc. PIE is *bhru, "log, beam". Serbian brv for "footbridge". the game
   bridge is completely unrelated, possibly from Turkish *bir-üç "one-three," because one hand is exposed and three are concealed
 
+# Ideas
+
+- dull https://www.etymonline.com/word/dull#etymonline_v_15980
+- toll https://www.etymonline.com/word/toll#etymonline_v_15345
+- sour https://www.etymonline.com/word/sour#etymonline_v_23926
+- shower https://www.etymonline.com/word/shower#etymonline_v_23442
+- through/thorough https://twitter.com/yvanspijk/status/1523949323444277248
+- dram https://twitter.com/DannyBate4/status/1517599099020787712
+- egypt dual https://twitter.com/DannyBate4/status/1520043846817701890
+- country https://twitter.com/yvanspijk/status/1516764319693918208
+- lute https://twitter.com/DannyBate4/status/1514708103291363332
+- fire, fuel https://twitter.com/DannyBate4/status/1516821909786214404
+- ear https://twitter.com/DannyBate4/status/1527675722726268928
 
 # Done
 
