@@ -59,6 +59,7 @@
 - pommel / pummel https://twitter.com/DannyBate4/status/1539697837990203393
 - sorry !== sorrow https://twitter.com/yvanspijk/status/1538506133215789063
 - collar / accolade https://twitter.com/yvanspijk/status/1538506133215789063
+- zettel / schedule
 
 # Done
 
