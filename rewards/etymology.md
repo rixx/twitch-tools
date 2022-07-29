@@ -60,6 +60,7 @@
 - sorry !== sorrow https://twitter.com/yvanspijk/status/1538506133215789063
 - collar / accolade https://twitter.com/yvanspijk/status/1538506133215789063
 - zettel / schedule
+- nest = to sit down https://twitter.com/yvanspijk/status/1513504043989184517
 
 # Done
 
